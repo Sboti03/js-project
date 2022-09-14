@@ -15,3 +15,4 @@ let combine = _.concat(t1, t2, t3)
 
 console.log(combine)
 
+document.getElementById("asd").innerHTML = random(0,100)
