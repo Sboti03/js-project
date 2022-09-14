@@ -2,6 +2,8 @@ import _ from "lodash"
 import { random } from './matek.js'
 import { LOREM, NAME } from './texts/unique.js'
 
+
+
 console.log(random(5,10))
 console.log(NAME + ' ' +  LOREM)
 
