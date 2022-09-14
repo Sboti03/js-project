@@ -14,3 +14,4 @@ let t3 = [2]
 let combine = _.concat(t1, t2, t3)
 
 console.log(combine)
+
